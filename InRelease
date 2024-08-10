@@ -1,0 +1,37 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Date: Sat, 10 Aug 2024 04:11:59 +0000
+MD5Sum:
+ 445dceb62f173eb6691c66a4af13d823             3833 Packages
+ b98d64e7f50088613ac6ae7cbe562eea             1625 Packages.gz
+ b71982d132a147a562c70873666376f3               38 Release
+SHA1:
+ ed56462a8d04a921567e85361d969f78f85296f8             3833 Packages
+ ac699f54da741f05974be02d2ecec51991054892             1625 Packages.gz
+ 4a6b16d4d2f6b1716818aef8f29e1ee3102061a8               38 Release
+SHA256:
+ a49dac2b6229dce93349d309e538420bb7bd31276fcd7c1d42895e10a8e238b1             3833 Packages
+ caddb9230f9ab37012a5917a97c5f0d8a8b4fa7fd41933d1923dfd4386b2e8af             1625 Packages.gz
+ 14649335af88c30e6681835a744c94dff2f3569368fc6de79d155c0cca72da35               38 Release
+SHA512:
+ fa65938111fcdd87339a1ca4a120dca81665e6a20ac4d14bda4aac8f5a48b43ab5ffa6fa5947a7aa6f6994c2d7063ba94acbce10d2d9ba4c70835cf43797ea57             3833 Packages
+ cd4e37077b7e11b4bc2c168fc4bfd396e37a9e607914d3eef443cebf7a285dbccef20d4fc1e8434ef75b813dd7bea24860d9f4d33802af0f88e37fb41ef9825f             1625 Packages.gz
+ 489f4dcd7e0afd65ffc21062ec44dd60e741edae7c64dd1fa25199f476243743fb2576f9f25ab12ca61699f8ced59816a8cf964092a948af95db0143accc8bdc               38 Release
+-----BEGIN PGP SIGNATURE-----
+
+iQJIBAEBCgAyFiEEF5isaWjSob7xx/lFVnyOcn4jZhAFAma26O8UHGFiY2Q1NjdA
+aG90bWFpbC5jb20ACgkQVnyOcn4jZhA71w//ZRDkKNBSV/BO/n4f6O4VgQ8qG+46
+5bYdgesGoo6XGy/u4+wpLIzKiRGIJtt5AloeDDAW9LZF3nY7+a0MpuPnoIOs+CC6
+XytxKwRhaP6yuq0K6gKj82NoXI2jbf8BNNntY12rHOOWPN9Ln2CcCVm1QDgzOIN+
+msvnHd1MZJgjTTYDyxIeu8u538xrljf5ld5fRzROEfPuDZgipHG28jN95e+EbBdC
+CVLYKpilQ5O7P7so4qXRhc3buqigAs66dPlRYWr2RBVRoYBHO5GY7gsO/p6re7r5
+tAMJ5dljigu1zx5cGAiaBVLF30UppFNkaOr2qffUaR9QGW89SKjJo5pmSiyFgJx+
+19OtPrVbvkWKAwRdxqvwwWRCRJI/Yr4JrZo70laxYOLGE2h1X1ysR+Zo4g4Hj0S/
+TiQuPGUSZvT+UEEhKcHTwmwWCCUBbJwDgijwjrj30izLkiEjptngpLjt4LasF9OT
+sKHD0ClkTDP8EI2ZsNnjpp9P+frY5eJmaElkaJq4Gv20UJmJQGYjDUZMdx4IV3hQ
+g76gGDlbnRn47E4DtW7UVjZy4Zk9VmKRVlgUxEwG21AqMULpVhhyi1Iy8fOFX/x0
+Vhv3wH9d8HfwDxHjrffbvYJLzuq5/ySCWGKRdaRzci9p3mAhzgYqDpoSscW/pDtw
+lqdn/lAfRfj1crU=
+=+Fiz
+-----END PGP SIGNATURE-----
