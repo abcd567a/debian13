@@ -93,3 +93,28 @@ Description: Local web interface for dump978
  .
  Provides a web interface to display aircraft data received from dump978.
 
+Package: tcl-tls
+Source: tcltls
+Version: 1.7.22-2+fa1
+Architecture: amd64
+Maintainer: Debian Tcl/Tk Packagers <pkg-tcltk-devel@lists.alioth.debian.org>
+Installed-Size: 167
+Depends: libc6 (>= 2.14), libssl3t64 (>= 3.0.0), libtcl8.6 (>= 8.6.14+dfsg-1~) | libtcl
+Conflicts: libtls0, tcltls
+Replaces: libtls0, tcltls
+Provides: tcltls
+Filename: ./tcl-tls_1.7.22-2+fa1_amd64.deb
+Size: 71476
+MD5sum: a969c353ff42ba9605ed4c4325eb2e95
+SHA1: 8a14e707b5ac55ff8c0687536fe0252b84ed76d9
+SHA256: 5a2f08b9d20259b5accdb3e6672425445eccd70f56cfb6910b2dae603160c9e2
+Section: libs
+Priority: optional
+Multi-Arch: same
+Homepage: https://core.tcl.tk/tcltls
+Description: TLS OpenSSL extension to Tcl
+ This package enables communication over SSL-encrypted channels in Tcl.
+ .
+ Both client and server-side sockets are possible. Additionally, full
+ filevent semantics should be intact.
+
